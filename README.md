@@ -1,59 +1,106 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=gradient&customColorList=12,20,24,25,30&text=WhoIsR&fontSize=58&fontAlignY=38&animation=twinkling&fontColor=ffffff&desc=Software%20Engineering%20•%20Cybersecurity%20•%20AI%20•%20Automation&descAlignY=60&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=venom&height=300&text=WhoIsR&fontSize=70&color=0:6C63FF,50:4F46E5,100:0EA5E9&fontColor=ffffff&stroke=ffffff&strokeWidth=0"
     width="100%"
-    alt="WhoIsR header"
+    alt="WhoIsR Header"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=850&lines=Build+things+that+actually+work;Break+things+to+understand+them;Security+should+be+part+of+the+design;Automation+should+remove+friction"
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Cybersecurity;Artificial+Intelligence;Automation+%26+Systems"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineering-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/AI-0D1117?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-0D1117?style=for-the-badge&logo=github&logoColor=white" />
+  <a href="https://github.com/WhoIsR">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/USERNAME-INSTAGRAM/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="mailto:EMAIL-KAMU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=WhoIsR&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
 ---
 
-### About
+## About Me
 
-I’m interested in systems that are useful, understandable, secure, and worth maintaining.
+```text
+Name     : Radja
+Handle   : @WhoIsR
+Focus    : Software Engineering, Cybersecurity, AI, Automation
+Style    : Build useful things. Keep them maintainable.
+```
+
+> Interested in systems that are useful, understandable, secure, and worth maintaining.
 
 ---
 
-### GitHub Signal
+## Connect
+
+- GitHub: [@WhoIsR](https://github.com/WhoIsR)
+- LinkedIn: [linkedin.com/in/USERNAME-LINKEDIN](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
+- Instagram: [@USERNAME-INSTAGRAM](https://www.instagram.com/USERNAME-INSTAGRAM/)
+- Email: [EMAIL-KAMU@gmail.com](mailto:EMAIL-KAMU@gmail.com)
+
+---
+
+## Focus Areas
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Software_Engineering-111827?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
+  <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=zapier&logoColor=FF4F00" />
+</p>
+
+---
+
+## GitHub Stats
 
 <p align="center">
   <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=WhoIsR&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-    alt="GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://streak-stats.demolab.com?user=WhoIsR&theme=transparent&hide_border=true"
-    alt="GitHub streak"
+    height="180"
+    src="https://streak-stats.demolab.com?user=WhoIsR&theme=tokyonight&hide_border=true"
+    alt="GitHub Streak"
   />
 </p>
 
 <p align="center">
   <img
     width="100%"
-    src="https://github-readme-activity-graph.vercel.app/graph?username=WhoIsR&bg_color=00000000&color=58A6FF&line=58A6FF&point=58A6FF&area=true&hide_border=true&theme=github-compact"
-    alt="Activity graph"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoIsR&theme=github_dark"
+    alt="Profile Details"
+  />
+</p>
+
+<p align="center">
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhoIsR&theme=github_dark"
+    alt="Repos per Language"
+  />
+  <img
+    height="170"
+    src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhoIsR&theme=github_dark"
+    alt="Most Commit Language"
   />
 </p>
 
 ---
 
-### Activity
+## Contribution Activity
 
 <p align="center">
   <picture>
@@ -76,20 +123,12 @@ I’m interested in systems that are useful, understandable, secure, and worth m
 
 <details>
   <summary><b>More</b></summary>
-  <br>
+  <br />
 
 ```text
-Name      : Radja
-Handle    : @WhoIsR
-
-Focus
-- Software Engineering
-- Cybersecurity
-- Artificial Intelligence
-- Automation
-
 Principles
 - Understand before automate
+- Security should be part of the design
 - Simplicity has to be earned
 - Build things worth maintaining
 ```

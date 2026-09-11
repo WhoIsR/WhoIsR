@@ -1,15 +1,8 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=venom&height=300&text=WhoIsR&fontSize=70&color=0:6C63FF,50:4F46E5,100:0EA5E9&fontColor=ffffff&stroke=ffffff&strokeWidth=0"
+    src="./assets/hero-capy.svg"
     width="100%"
-    alt="WhoIsR Header"
-  />
-</p>
-
-<p align="center">
-  <img
-    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=26&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=900&lines=Software+Engineering;Cybersecurity;Artificial+Intelligence;Automation+%26+Systems"
-    alt="Typing SVG"
+    alt="WhoIsR animated profile"
   />
 </p>
 
@@ -20,16 +13,19 @@
   <a href="https://www.linkedin.com/in/USERNAME-LINKEDIN/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://www.instagram.com/USERNAME-INSTAGRAM/">
+  <a href="https://instagram.com/USERNAME-INSTAGRAM">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
-  <a href="mailto:EMAIL-KAMU@gmail.com">
+  <a href="mailto:EMAIL-KAMU">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=WhoIsR&label=Profile%20Views&color=0e75b6&style=flat" alt="profile views" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=22&duration=2200&pause=900&color=58A6FF&center=true&vCenter=true&width=800&lines=Software+Engineering;IT+Governance;Artificial+Intelligence;Automation+%26+Systems"
+    alt="Typing animation"
+  />
 </p>
 
 ---
@@ -39,41 +35,26 @@
 ```text
 Name     : Radja
 Handle   : @WhoIsR
-Focus    : Software Engineering, Cybersecurity, AI, Automation
-Style    : Build useful things. Keep them maintainable.
+Location : Indonesia
+
+Focus
+├── Software Engineering
+├── IT Governance
+├── Artificial Intelligence
+└── Automation
 ```
 
-> Interested in systems that are useful, understandable, secure, and worth maintaining.
+Interested in building systems that are useful, understandable, maintainable, and actually worth using.
 
 ---
 
-## Connect
-
-- GitHub: [@WhoIsR](https://github.com/WhoIsR)
-- LinkedIn: [linkedin.com/in/USERNAME-LINKEDIN](https://www.linkedin.com/in/USERNAME-LINKEDIN/)
-- Instagram: [@USERNAME-INSTAGRAM](https://www.instagram.com/USERNAME-INSTAGRAM/)
-- Email: [EMAIL-KAMU@gmail.com](mailto:EMAIL-KAMU@gmail.com)
-
----
-
-## Focus Areas
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Software_Engineering-111827?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cybersecurity-111827?style=for-the-badge&logo=hackthebox&logoColor=9FEF00" />
-  <img src="https://img.shields.io/badge/Artificial_Intelligence-111827?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Automation-111827?style=for-the-badge&logo=zapier&logoColor=FF4F00" />
-</p>
-
----
-
-## GitHub Stats
+## GitHub Signal
 
 <p align="center">
   <img
     height="180"
     src="https://streak-stats.demolab.com?user=WhoIsR&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
+    alt="GitHub streak"
   />
 </p>
 
@@ -81,7 +62,7 @@ Style    : Build useful things. Keep them maintainable.
   <img
     width="100%"
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=WhoIsR&theme=github_dark"
-    alt="Profile Details"
+    alt="GitHub profile details"
   />
 </p>
 
@@ -89,12 +70,12 @@ Style    : Build useful things. Keep them maintainable.
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=WhoIsR&theme=github_dark"
-    alt="Repos per Language"
+    alt="Repositories per language"
   />
   <img
     height="170"
     src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=WhoIsR&theme=github_dark"
-    alt="Most Commit Language"
+    alt="Most commit language"
   />
 </p>
 
@@ -113,8 +94,8 @@ Style    : Build useful things. Keep them maintainable.
       srcset="https://raw.githubusercontent.com/WhoIsR/WhoIsR/output/github-contribution-grid-snake.svg"
     />
     <img
-      alt="github contribution snake"
       src="https://raw.githubusercontent.com/WhoIsR/WhoIsR/output/github-contribution-grid-snake.svg"
+      alt="GitHub contribution animation"
     />
   </picture>
 </p>
@@ -122,15 +103,17 @@ Style    : Build useful things. Keep them maintainable.
 ---
 
 <details>
-  <summary><b>More</b></summary>
-  <br />
+<summary><b>More</b></summary>
+
+<br>
 
 ```text
 Principles
-- Understand before automate
-- Security should be part of the design
-- Simplicity has to be earned
-- Build things worth maintaining
+
+• Understand before automate
+• Keep systems maintainable
+• Governance should reduce confusion
+• Build useful things, not impressive demos
 ```
 
 </details>

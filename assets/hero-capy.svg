@@ -1,0 +1,935 @@
+<svg
+  xmlns="http://www.w3.org/2000/svg"
+  viewBox="0 0 1200 470"
+  role="img"
+  aria-label="WhoIsR animated capybara profile header"
+>
+
+  <defs>
+
+    <!-- ========================= -->
+    <!-- COLORS                    -->
+    <!-- ========================= -->
+
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#070b14"/>
+      <stop offset="45%" stop-color="#0a1327"/>
+      <stop offset="100%" stop-color="#151037"/>
+    </linearGradient>
+
+    <linearGradient id="nameGradient" x1="0" x2="1">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="60%" stop-color="#dbeafe"/>
+      <stop offset="100%" stop-color="#818cf8"/>
+    </linearGradient>
+
+    <linearGradient id="groundGradient" x1="0" x2="1">
+      <stop offset="0%" stop-color="#1e3a8a"/>
+      <stop offset="50%" stop-color="#3730a3"/>
+      <stop offset="100%" stop-color="#6d28d9"/>
+    </linearGradient>
+
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="7" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <!-- ========================= -->
+    <!-- CAPYBARA FRAME 1          -->
+    <!-- ========================= -->
+
+    <g id="capy-frame-1">
+
+      <!-- tail -->
+      <rect
+        x="2"
+        y="43"
+        width="13"
+        height="7"
+        rx="3"
+        fill="#705039"
+      />
+
+      <!-- body -->
+      <rect
+        x="14"
+        y="25"
+        width="75"
+        height="47"
+        rx="16"
+        fill="#a87850"
+      />
+
+      <!-- head -->
+      <rect
+        x="69"
+        y="12"
+        width="43"
+        height="44"
+        rx="14"
+        fill="#a87850"
+      />
+
+      <!-- ears -->
+      <rect
+        x="74"
+        y="6"
+        width="10"
+        height="11"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="96"
+        y="7"
+        width="10"
+        height="11"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <!-- muzzle -->
+      <rect
+        x="94"
+        y="30"
+        width="22"
+        height="17"
+        rx="7"
+        fill="#c48c61"
+      />
+
+      <!-- eye -->
+      <rect
+        x="89"
+        y="23"
+        width="4"
+        height="4"
+        rx="1"
+        fill="#101010"
+      />
+
+      <!-- nose -->
+      <rect
+        x="109"
+        y="35"
+        width="4"
+        height="4"
+        rx="1"
+        fill="#101010"
+      />
+
+      <!-- legs FRAME 1 -->
+      <rect
+        x="26"
+        y="65"
+        width="11"
+        height="20"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="47"
+        y="65"
+        width="11"
+        height="13"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="67"
+        y="65"
+        width="11"
+        height="13"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="82"
+        y="65"
+        width="11"
+        height="20"
+        rx="4"
+        fill="#79543c"
+      />
+
+    </g>
+
+    <!-- ========================= -->
+    <!-- CAPYBARA FRAME 2          -->
+    <!-- ========================= -->
+
+    <g id="capy-frame-2">
+
+      <rect
+        x="2"
+        y="43"
+        width="13"
+        height="7"
+        rx="3"
+        fill="#705039"
+      />
+
+      <rect
+        x="14"
+        y="25"
+        width="75"
+        height="47"
+        rx="16"
+        fill="#a87850"
+      />
+
+      <rect
+        x="69"
+        y="12"
+        width="43"
+        height="44"
+        rx="14"
+        fill="#a87850"
+      />
+
+      <rect
+        x="74"
+        y="6"
+        width="10"
+        height="11"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="96"
+        y="7"
+        width="10"
+        height="11"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="94"
+        y="30"
+        width="22"
+        height="17"
+        rx="7"
+        fill="#c48c61"
+      />
+
+      <rect
+        x="89"
+        y="23"
+        width="4"
+        height="4"
+        rx="1"
+        fill="#101010"
+      />
+
+      <rect
+        x="109"
+        y="35"
+        width="4"
+        height="4"
+        rx="1"
+        fill="#101010"
+      />
+
+      <!-- legs FRAME 2 -->
+      <rect
+        x="26"
+        y="65"
+        width="11"
+        height="13"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="43"
+        y="65"
+        width="11"
+        height="20"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="67"
+        y="65"
+        width="11"
+        height="20"
+        rx="4"
+        fill="#79543c"
+      />
+
+      <rect
+        x="85"
+        y="65"
+        width="11"
+        height="13"
+        rx="4"
+        fill="#79543c"
+      />
+
+    </g>
+
+    <!-- ========================= -->
+    <!-- SLEEPING CAPY             -->
+    <!-- ========================= -->
+
+    <g id="sleeping-capy">
+
+      <rect
+        x="0"
+        y="17"
+        width="76"
+        height="35"
+        rx="16"
+        fill="#916746"
+      />
+
+      <rect
+        x="8"
+        y="6"
+        width="37"
+        height="31"
+        rx="12"
+        fill="#916746"
+      />
+
+      <rect
+        x="13"
+        y="1"
+        width="10"
+        height="10"
+        rx="4"
+        fill="#755139"
+      />
+
+      <rect
+        x="29"
+        y="18"
+        width="9"
+        height="2"
+        rx="1"
+        fill="#111111"
+      />
+
+      <rect
+        x="36"
+        y="28"
+        width="19"
+        height="12"
+        rx="5"
+        fill="#bb845c"
+      />
+
+    </g>
+
+  </defs>
+
+  <!-- ========================= -->
+  <!-- BACKGROUND                -->
+  <!-- ========================= -->
+
+  <rect
+    width="1200"
+    height="470"
+    rx="22"
+    fill="url(#background)"
+  />
+
+  <!-- grid -->
+  <g
+    stroke="#60a5fa"
+    stroke-width="1"
+    opacity=".08"
+  >
+    <path d="M0 80H1200"/>
+    <path d="M0 160H1200"/>
+    <path d="M0 240H1200"/>
+    <path d="M0 320H1200"/>
+    <path d="M0 400H1200"/>
+
+    <path d="M200 0V470"/>
+    <path d="M400 0V470"/>
+    <path d="M600 0V470"/>
+    <path d="M800 0V470"/>
+    <path d="M1000 0V470"/>
+  </g>
+
+  <!-- ambient light -->
+
+  <circle
+    cx="960"
+    cy="115"
+    r="90"
+    fill="#4f46e5"
+    opacity=".11"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="r"
+      values="78;105;78"
+      dur="6s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <circle
+    cx="1060"
+    cy="170"
+    r="60"
+    fill="#0ea5e9"
+    opacity=".12"
+    filter="url(#glow)"
+  >
+    <animate
+      attributeName="cy"
+      values="170;145;170"
+      dur="5s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <!-- ========================= -->
+  <!-- STARS                     -->
+  <!-- ========================= -->
+
+  <g fill="#ffffff">
+
+    <circle cx="725" cy="67" r="2">
+      <animate
+        attributeName="opacity"
+        values=".15;1;.15"
+        dur="2.4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="820" cy="115" r="1.6">
+      <animate
+        attributeName="opacity"
+        values="1;.1;1"
+        dur="3.3s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="1100" cy="70" r="2">
+      <animate
+        attributeName="opacity"
+        values=".2;1;.2"
+        dur="2.8s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="685" cy="157" r="1.5">
+      <animate
+        attributeName="opacity"
+        values="1;.12;1"
+        dur="4s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+    <circle cx="1010" cy="245" r="1.5">
+      <animate
+        attributeName="opacity"
+        values=".1;1;.1"
+        dur="3.6s"
+        repeatCount="indefinite"
+      />
+    </circle>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- PROFILE TEXT              -->
+  <!-- ========================= -->
+
+  <text
+    x="64"
+    y="65"
+    fill="#64748b"
+    font-family="monospace"
+    font-size="13"
+    letter-spacing="3"
+  >
+    PROFILE / WHOISR
+  </text>
+
+  <text
+    x="60"
+    y="155"
+    fill="url(#nameGradient)"
+    font-family="Arial, sans-serif"
+    font-size="82"
+    font-weight="800"
+  >
+    WhoIsR
+  </text>
+
+  <text
+    x="65"
+    y="202"
+    fill="#93c5fd"
+    font-family="monospace"
+    font-size="18"
+    letter-spacing="1"
+  >
+    SOFTWARE ENGINEERING
+  </text>
+
+  <text
+    x="65"
+    y="236"
+    fill="#a5b4fc"
+    font-family="monospace"
+    font-size="18"
+    letter-spacing="1"
+  >
+    IT GOVERNANCE · AI · AUTOMATION
+  </text>
+
+  <circle
+    cx="68"
+    cy="278"
+    r="5"
+    fill="#22c55e"
+  >
+    <animate
+      attributeName="opacity"
+      values=".25;1;.25"
+      dur="1.8s"
+      repeatCount="indefinite"
+    />
+  </circle>
+
+  <text
+    x="85"
+    y="283"
+    fill="#94a3b8"
+    font-family="monospace"
+    font-size="13"
+  >
+    SYSTEM ONLINE
+  </text>
+
+  <!-- ========================= -->
+  <!-- MOVING CLOUDS             -->
+  <!-- ========================= -->
+
+  <g opacity=".55">
+
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="-150 0;1250 0"
+        dur="30s"
+        repeatCount="indefinite"
+      />
+
+      <rect
+        x="0"
+        y="122"
+        width="48"
+        height="14"
+        rx="7"
+        fill="#253e6b"
+      />
+
+      <rect
+        x="16"
+        y="109"
+        width="48"
+        height="27"
+        rx="13"
+        fill="#253e6b"
+      />
+
+      <rect
+        x="46"
+        y="123"
+        width="42"
+        height="13"
+        rx="7"
+        fill="#253e6b"
+      />
+
+    </g>
+
+    <g>
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="1200 0;-220 0"
+        dur="42s"
+        repeatCount="indefinite"
+      />
+
+      <rect
+        x="0"
+        y="190"
+        width="45"
+        height="13"
+        rx="7"
+        fill="#1f345d"
+      />
+
+      <rect
+        x="18"
+        y="178"
+        width="43"
+        height="25"
+        rx="12"
+        fill="#1f345d"
+      />
+
+      <rect
+        x="49"
+        y="190"
+        width="40"
+        height="13"
+        rx="7"
+        fill="#1f345d"
+      />
+
+    </g>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- HILLS                     -->
+  <!-- ========================= -->
+
+  <path
+    d="
+      M0 355
+      L110 302
+      L220 349
+      L350 285
+      L475 350
+      L610 308
+      L730 348
+      L875 282
+      L1010 348
+      L1115 305
+      L1200 344
+      L1200 470
+      L0 470Z
+    "
+    fill="#101d3d"
+    opacity=".95"
+  />
+
+  <!-- ========================= -->
+  <!-- GROUND                    -->
+  <!-- ========================= -->
+
+  <rect
+    x="0"
+    y="383"
+    width="1200"
+    height="87"
+    fill="#080e1e"
+  />
+
+  <rect
+    x="0"
+    y="377"
+    width="1200"
+    height="7"
+    fill="url(#groundGradient)"
+  />
+
+  <!-- grass -->
+
+  <g
+    stroke="#34d399"
+    stroke-width="3"
+    opacity=".65"
+  >
+
+    <path d="M150 378l-5-10M153 378l6-12"/>
+    <path d="M420 378l-4-12M424 378l7-9"/>
+    <path d="M705 378l-6-10M708 378l5-13"/>
+    <path d="M1030 378l-4-11M1033 378l7-9"/>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- CAPY 1                    -->
+  <!-- WALK LEFT -> RIGHT        -->
+  <!-- ========================= -->
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="-150 294;1240 294"
+      dur="10s"
+      repeatCount="indefinite"
+    />
+
+    <g>
+
+      <!-- body bob -->
+      <animateTransform
+        attributeName="transform"
+        type="translate"
+        values="
+          0 0;
+          0 -4;
+          0 0;
+          0 -4;
+          0 0
+        "
+        dur=".64s"
+        repeatCount="indefinite"
+      />
+
+      <!-- frame 1 -->
+
+      <use href="#capy-frame-1">
+
+        <animate
+          attributeName="opacity"
+          values="1;0;1;0"
+          dur=".64s"
+          calcMode="discrete"
+          repeatCount="indefinite"
+        />
+
+      </use>
+
+      <!-- frame 2 -->
+
+      <use href="#capy-frame-2">
+
+        <animate
+          attributeName="opacity"
+          values="0;1;0;1"
+          dur=".64s"
+          calcMode="discrete"
+          repeatCount="indefinite"
+        />
+
+      </use>
+
+    </g>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- CAPY 2                    -->
+  <!-- WALK RIGHT -> LEFT        -->
+  <!-- ========================= -->
+
+  <g>
+
+    <animateTransform
+      attributeName="transform"
+      type="translate"
+      values="
+        1340 316;
+        -180 316
+      "
+      dur="14s"
+      begin="1.5s"
+      repeatCount="indefinite"
+    />
+
+    <g transform="translate(115 0) scale(-0.76 0.76)">
+
+      <use href="#capy-frame-1">
+
+        <animate
+          attributeName="opacity"
+          values="1;0;1;0"
+          dur=".5s"
+          calcMode="discrete"
+          repeatCount="indefinite"
+        />
+
+      </use>
+
+      <use href="#capy-frame-2">
+
+        <animate
+          attributeName="opacity"
+          values="0;1;0;1"
+          dur=".5s"
+          calcMode="discrete"
+          repeatCount="indefinite"
+        />
+
+      </use>
+
+    </g>
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- CAPY 3                    -->
+  <!-- SLEEPING                  -->
+  <!-- ========================= -->
+
+  <g transform="translate(930 330)">
+
+    <use href="#sleeping-capy"/>
+
+    <animateTransform
+      attributeName="transform"
+      additive="sum"
+      type="translate"
+      values="
+        0 0;
+        0 -2;
+        0 0
+      "
+      dur="2.5s"
+      repeatCount="indefinite"
+    />
+
+  </g>
+
+  <!-- ========================= -->
+  <!-- ZZZ                       -->
+  <!-- ========================= -->
+
+  <text
+    x="993"
+    y="323"
+    fill="#93c5fd"
+    font-family="monospace"
+    font-size="13"
+    font-weight="700"
+  >
+    z
+
+    <animate
+      attributeName="y"
+      values="323;295"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      dur="2s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <text
+    x="1010"
+    y="307"
+    fill="#93c5fd"
+    font-family="monospace"
+    font-size="16"
+    font-weight="700"
+  >
+    z
+
+    <animate
+      attributeName="y"
+      values="307;276"
+      dur="2.5s"
+      begin=".7s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values="0;1;0"
+      dur="2.5s"
+      begin=".7s"
+      repeatCount="indefinite"
+    />
+
+  </text>
+
+  <!-- ========================= -->
+  <!-- FIREFLY                   -->
+  <!-- ========================= -->
+
+  <circle
+    r="3"
+    fill="#fde68a"
+    filter="url(#glow)"
+  >
+
+    <animate
+      attributeName="cx"
+      values="
+        730;
+        770;
+        820;
+        785;
+        730
+      "
+      dur="7s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="cy"
+      values="
+        345;
+        312;
+        335;
+        300;
+        345
+      "
+      dur="7s"
+      repeatCount="indefinite"
+    />
+
+    <animate
+      attributeName="opacity"
+      values=".1;1;.3;1;.1"
+      dur="3s"
+      repeatCount="indefinite"
+    />
+
+  </circle>
+
+  <!-- ========================= -->
+  <!-- FOOTER                    -->
+  <!-- ========================= -->
+
+  <text
+    x="38"
+    y="444"
+    fill="#64748b"
+    font-family="monospace"
+    font-size="12"
+    letter-spacing="1"
+  >
+    CAPYBARA.EXE IS ROAMING...
+  </text>
+
+  <text
+    x="1162"
+    y="444"
+    text-anchor="end"
+    fill="#64748b"
+    font-family="monospace"
+    font-size="12"
+    letter-spacing="1"
+  >
+    @WHOISR
+  </text>
+
+</svg>
